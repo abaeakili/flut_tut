@@ -4,6 +4,8 @@ void main() {
 
 // (Single Line Comments) Access the dart pad at dartpat.dartlang.org
 
+// Selecting your texts and pressing Command + / creates a comment
+
 /* 
 (Multiple Line Comments)
 main() {
